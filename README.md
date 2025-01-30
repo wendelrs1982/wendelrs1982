@@ -133,7 +133,7 @@ Formado em Sistemas de Informação e com MBA em Teste de Software, tenho mais d
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelrs1982&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelrs1982&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=2" 
   />
 
 </p>
