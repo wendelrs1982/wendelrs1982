@@ -88,32 +88,6 @@ Formado em Sistemas de Informação e com MBA em Teste de Software, tenho mais d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
-<!-- <img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/> -->
-
-
 
 <br/>
 <br/>
@@ -124,7 +98,7 @@ Formado em Sistemas de Informação e com MBA em Teste de Software, tenho mais d
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=wendelrs1982&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -132,8 +106,8 @@ Formado em Sistemas de Informação e com MBA em Teste de Software, tenho mais d
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelrs1982&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=2" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelrs1982&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=3" 
   />
 
 </p>
