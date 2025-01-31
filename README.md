@@ -100,14 +100,14 @@ Formado em Sistemas de Informação e com MBA em Teste de Software, tenho mais d
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=wendelrs1982&show_icons=true&theme=apprentice&include_all_commits=true&locale=pt-br&v=1" 
+    src="https://github-readme-stats.vercel.app/api?username=wendelrs1982&show_icons=true&theme=apprentice&include_all_commits=true&locale=pt-br&v=2" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelrs1982&theme=apprentice&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelrs1982&theme=apprentice&layout=compact&custom_title=Tecnologias&langs_count=9&v=2" 
   />
 
 </p>
